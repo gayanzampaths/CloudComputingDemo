@@ -3,7 +3,7 @@
 1. Create and Log into AWS Console  
 
 2. Create & access to EC2 instance (use free tier)  
-        Note :  Add Security Groups -   3838 - Shiny Server  
+&nbsp;        Note :  Add Security Groups -   3838 - Shiny Server  
                                         8787 - R Studio  
                 Add Key pair for SSH access  
                 Access Instance by using SSH key .pem file  
